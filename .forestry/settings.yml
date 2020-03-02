@@ -3,7 +3,9 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: heading
+  label: lalaland
 upload_dir: ''
 public_path: ''
 front_matter_path: ''
